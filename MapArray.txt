@@ -1,0 +1,10 @@
+offset
+0      | MapArray\0    | ID string
+9      | integer32 W   | file w size
+13     | integer32 h   | file h size
+17     |integer32-bits | color bits normaly value 32
+21     | start color px| blue pixel 0
+22     | green color px| green pixel 0
+23     | red color byte| red pixel byte
+24     | transparency  | transparency byte 0 no trasparecy 255 max transparency
+.......|w*h*(4 on 32 bits mode
