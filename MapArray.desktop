@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=MapArray
+Comment=map image array
+Exec=/usr/bin/MapArray
+Icon=
+Path=
+Terminal=false
+StartupNotify=false
