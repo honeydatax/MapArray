@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="MapArray/MapArray">
+    <comment>MapArray new file type</comment>
+    <glob pattern="*.Marray"/>
+  </mime-type>
+</mime-info>
